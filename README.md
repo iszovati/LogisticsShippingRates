@@ -1,0 +1,2 @@
+# LogisticsShippingRates
+Closing module
